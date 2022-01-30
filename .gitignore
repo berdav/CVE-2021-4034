@@ -1,0 +1,6 @@
+GCONV_PATH=.
+cve-2021-4034
+gconv-modules
+pwnkit.so
+dry-run/dry-run-cve-2021-4034
+dry-run/pwnkit-dry-run.so_data.h
